@@ -1,0 +1,91 @@
+body {
+    background-image: url("../images/mekong-green.png");
+}
+
+h2 {
+    background-color: rgb(184, 110, 27);
+    color: white;
+    width: 225px;
+    height: 75px;
+    text-align: center;
+    line-height: 3;
+}
+
+#directions {
+    background-color: rgb(223, 203, 177);
+    color: rgb(56, 148, 56);
+    width: 400px;
+    height: 450px; 
+    font-weight: bolder;
+    line-height: 1.25;
+    font-size: 15px;
+}
+
+#random {
+    background-color: rgb(56, 148, 56);
+    color: rgb(59, 8, 59);
+    position: absolute;
+    height: 100px;
+    width: 175px;
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+#randomNumber {
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+#overallScore {
+    background-color: aqua;
+    color: rgb(56, 148, 56);
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 10px 0px 0px 180px;
+}
+
+#topaz {
+    position: absolute;
+    margin-top: 125px;
+}
+
+#ruby {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 50px;
+}
+
+#diamond {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 100px;
+}
+#jewel {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 150px;
+}
+
+#scoreLabel {
+    position: absolute;
+    margin-top: 190px;
+    background-color: teal;
+    color: white;
+    width: 175px;
+}
+
+#round {
+    position: absolute;
+    background-color: teal;
+    color: white;
+    width: 175px;
+    height: 100px;
+    font-size: 36px;
+    margin-top: 250px;
+}
+
+#roundScore{
+    margin-top:0;
+}
